@@ -1,0 +1,10 @@
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/bin/Release/netcoreapp2.0/Properties/launchSettings.json
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/bin/Release/netcoreapp2.0/Lab-1.deps.json
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/bin/Release/netcoreapp2.0/Lab-1.runtimeconfig.json
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/bin/Release/netcoreapp2.0/Lab-1.runtimeconfig.dev.json
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/bin/Release/netcoreapp2.0/Lab-1.dll
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/bin/Release/netcoreapp2.0/Lab-1.pdb
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/obj/Release/netcoreapp2.0/Lab-1.AssemblyInfoInputs.cache
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/obj/Release/netcoreapp2.0/Lab-1.AssemblyInfo.cs
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/obj/Release/netcoreapp2.0/Lab-1.dll
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/obj/Release/netcoreapp2.0/Lab-1.pdb

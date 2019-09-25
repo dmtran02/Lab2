@@ -1,0 +1,14 @@
+/Users/dmtran02/Projects/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.deps.json
+/Users/dmtran02/Projects/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.runtimeconfig.json
+/Users/dmtran02/Projects/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.runtimeconfig.dev.json
+/Users/dmtran02/Projects/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.dll
+/Users/dmtran02/Projects/lab2/lab2/bin/Debug/netcoreapp2.1/lab2.pdb
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.csproj.CoreCompileInputs.cache
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.RazorAssemblyInfo.cache
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.RazorAssemblyInfo.cs
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.AssemblyInfoInputs.cache
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.AssemblyInfo.cs
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.RazorTargetAssemblyInfo.cache
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.dll
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.pdb
+/Users/dmtran02/Projects/lab2/lab2/obj/Debug/netcoreapp2.1/lab2.csprojAssemblyReference.cache

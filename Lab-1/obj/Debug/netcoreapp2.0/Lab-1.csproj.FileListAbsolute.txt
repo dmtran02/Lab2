@@ -1,0 +1,2 @@
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/obj/Debug/netcoreapp2.0/Lab-1.AssemblyInfoInputs.cache
+/Users/dmtran02/Desktop/CIS 3344/Lab1/Lab-1/obj/Debug/netcoreapp2.0/Lab-1.AssemblyInfo.cs

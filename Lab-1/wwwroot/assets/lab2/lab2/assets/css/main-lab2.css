@@ -1,0 +1,79 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+    background-color: darkgrey;
+}
+
+.navbar-container {
+    overflow: hidden;
+    background-color: grey;
+    border: 1px solid black;
+}
+
+.navbar-container a {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px;
+    font-size: 24px;
+    color: white;
+}
+
+.navbar-container a:hover {
+    background-color: lightgrey;
+    color: white;
+}
+
+.navbar-container a.active {
+    background-color: black;
+    color: white;
+}
+
+.content-container {
+    margin: 0;
+    padding: 0;
+    width: 70%;
+    height: auto;
+    background-color: lightgrey;
+    opacity: 0.85;
+    text-align: center;
+    position: relative;
+    left: 15%;
+}
+
+.topic-container {
+    border: 1px solid black;
+}
+
+.image-container {
+    position: relative;
+    margin-left: 10%;
+    float: left;
+    text-align: center;
+}
+
+.image-container p {
+    text-align: center;
+}
+
+.content-container .topic-header {
+    font-size: 24px;
+    text-align: left;
+    text-indent: 5px;
+}
+
+#float-clear {
+    clear: left;
+}
+
+.topic-content p {
+    text-align: left;
+    text-indent: 50px;
+}
+
+.topic-content form {
+    text-align: left;
+    margin-left: 15px;
+}
